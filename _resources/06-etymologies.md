@@ -1,5 +1,5 @@
 ---
-title: "Origin Stories"
+title: "Etymologies"
 ---
 
 - [Alibaba](http://www.rewindandcapture.com/why-is-alibaba-called-alibaba/)
