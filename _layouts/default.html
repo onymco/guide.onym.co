@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+    <nav style="height: 0px;">
+      <ul>
+        {% for resource in site.resources %}
+        <li>
+          <a href="/#{{ resource.slug | slice: 3, resource.slug.size }}">
+            {% include {{ resource.slug | slice: 3, resource.slug.size }}.svg %}<h1>{{ resource.title }}</h1>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+    
+    <main class="site__content">
+      {% for resource in site.resources limit: 1 %}
+      <article id="{{ resource.slug | slice: 3, resource.slug.size }}">
+        <header>
+          <div class="wrapper">
+            <div class="title">
+              {% include {{ resource.slug | slice: 3, resource.slug.size }}.svg %}<h1>{{ resource.title }} <a href="#{{ resource.slug }}"></a></h1>
+            </div>
+            <div class="subtitle">
+              <div class="subwrapper">
+                {{ site.description }}<br>
+                Collected by <a href="https://twitter.com/leppert">Greg</a> and <a href="https://twitter.com/vanlancker">Willem</a>.
+              </div>
+            </div>
+          </div>
+        </header>
+        <div class="content longform">
+          {{ resource.content }}
+          <form action="https://leppert.us16.list-manage.com/subscribe/post?u=f12749db5967b17a715d19d6a&amp;id=d3e8c25525" method="post">
+            <input type="email" value="" name="EMAIL" placeholder="me@example.com">
+            <input type="submit" value="Subscribe" name="subscribe">
+          </form>
+        </div>
+      </article>
+      {% endfor %}
+
+      {{ content }}
+    </main>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer-time/1.1.0/hammer-time.min.js"></script>
+    <script src="{{ "/assets/js/fulltilt.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/main.js" | relative_url }}?{{site.time | date: '%s%N'}}"></script>
+  </body>
+</html>

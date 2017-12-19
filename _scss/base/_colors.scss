@@ -1,0 +1,62 @@
+$black: #000;
+$white: #FFF;
+$rainbow: #F2F2F2 #FF6253 #F584DE #766CFD #3B67F0 #2995FA #5EDDE6 #38DC7C #424242;
+$fade-light: 90%;
+$fade-medium: 80%;
+
+body {
+  color: lighten(#000, 65%);
+}
+
+h1, h2, h3, a,
+article .longform {
+  color: $black;
+}
+
+.credit a {
+  color: inherit;
+}
+
+@for $i from 1 through length($rainbow) {
+  $color: nth($rainbow, $i);
+  $color-darker: darken($color, 60%);
+  $color-hover: mix($white, $color, 50%);
+  $next-color: if($i < length($rainbow), nth($rainbow, $i+1), white);
+  nav li:nth-child(#{$i}) {
+    background-color: $color;
+    border-color: $color;
+  }
+  nav li:nth-child(#{$i}):hover {
+    background-color: $color-hover;
+    border-color: $color-hover;
+    svg { fill: $color; }
+  }
+  article:nth-child(#{$i}) {
+    background: linear-gradient(to bottom, mix($white, $color, $fade-light) 0%, mix($white, $color, $fade-light) 80%, mix($white, $next-color, $fade-light) 100%);
+    color: darken(desaturate($color, 75%), 10%);
+    svg {
+      fill: $color-darker;
+      transition: fill 0.1s;
+    }
+    header:hover svg {
+      fill: $color;
+    }
+    h1 { color: $color; }
+    h1, h2, h3, a { color: $color-darker; }
+  }
+}
+
+.site__content article:first-child {
+  color: lighten(#000, 65%);
+  h1 { color: $black; }
+  svg { fill: $black; }
+}
+
+article:first-child header:hover svg,
+nav li:first-child:hover svg {
+  fill: $black;
+}
+
+nav li:last-child h1 {
+  color: $white;
+}

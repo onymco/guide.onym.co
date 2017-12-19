@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{% for resource in site.resources offset:1 %}
+<article id="{{ resource.slug | slice: 3, resource.slug.size }}">
+  <header>
+    <div class="wrapper">
+      {% include {{ resource.slug | slice: 3, resource.slug.size }}.svg %}<h1>{{ resource.title }} <a href="#{{ resource.slug }}"></a></h1>
+    </div>
+  </header>
+  <div class="content">
+    {{ resource.content }}
+  </div>
+</article>
+{% endfor %}

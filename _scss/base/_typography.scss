@@ -1,0 +1,113 @@
+/**
+ *
+ * @group Typography
+ *
+*/
+
+/// Settings
+/// -------------
+
+/// Weights + sizing
+$font-weight__light:    200;
+$font-weight__normal:   400;
+$font-weight__bold:     600;
+$font-size__base:       0.875rem;
+$leading:               1.35;
+
+/// Family stacks
+$font-family__body:     "Untitled Sans", Helvetica, Arial, sans-serif;
+
+@font-face {
+    font-family: "Untitled Sans";
+    src: url("fonts/UntitledSansWeb-LightItalic.woff2") format("woff2"),
+         url("fonts/UntitledSansWeb-LightItalic.woff") format("woff");
+    font-weight: $font-weight__light;
+    font-style: italic, oblique;
+}
+
+@font-face {
+    font-family: "Untitled Sans";
+    src: url("fonts/UntitledSansWeb-Light.woff2") format("woff2"),
+         url("fonts/UntitledSansWeb-Light.woff") format("woff");
+    font-weight: $font-weight__light;
+}
+
+@font-face {
+    font-family: "Untitled Sans";
+    src: url("fonts/UntitledSansWeb-RegularItalic.woff2") format("woff2"),
+         url("fonts/UntitledSansWeb-RegularItalic.woff") format("woff");
+    font-weight: $font-weight__normal;
+    font-style: italic, oblique;
+}
+
+@font-face {
+    font-family: "Untitled Sans";
+    src: url("fonts/UntitledSansWeb-Regular.woff2") format("woff2"),
+         url("fonts/UntitledSansWeb-Regular.woff") format("woff");
+    font-weight: $font-weight__normal;
+}
+
+@font-face {
+    font-family: "Untitled Sans";
+    src: url("fonts/UntitledSansWeb-MediumItalic.woff2") format("woff2"),
+         url("fonts/UntitledSansWeb-MediumItalic.woff") format("woff");
+    font-weight: $font-weight__bold;
+    font-style: italic, oblique;
+}
+
+@font-face {
+    font-family: "Untitled Sans";
+    src: url("fonts/UntitledSansWeb-Medium.woff2") format("woff2"),
+         url("fonts/UntitledSansWeb-Medium.woff") format("woff");
+    font-weight: $font-weight__bold;
+}
+
+/// Styles
+/// -------------
+body, input {
+  font: $font-weight__light $font-size__base $font-family__body;
+}
+body {
+  line-height: $leading;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family__body;
+  line-height: 1;
+}
+
+h1, h2, h3, strong, b {
+  font-weight: $font-weight__bold;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1rem;
+}
+
+em, i {
+  font-family: $font-family__body;
+  font-style: italic;
+}
+
+article .longform {
+  font-weight: $font-weight__normal;
+  font-size: 1rem;
+  @media (min-width: $mobile-width) {
+    font-size: 1.5rem;
+  }
+}
+
+nav h1 {
+  @media (max-width: $mobile-width),
+         (max-height: $mobile-height){
+    font-size: 1rem;
+  }
+}

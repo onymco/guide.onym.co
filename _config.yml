@@ -1,0 +1,26 @@
+# Site settings
+title: Onym
+description: Tools and resources for naming things.
+author: Greg Leppert & Willem Van Lancker
+locale: en-US
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title
+sass:
+    sass_dir: _scss
+
+# Exclude from site build
+exclude:
+  - .DS_Store
+  - node_modules
+  - gulpfile.js
+  - package.json
+  - README.md
+
+# Content grouping
+collections:
+  resources:
+    output: true
+    permalink: /:collection/:name/

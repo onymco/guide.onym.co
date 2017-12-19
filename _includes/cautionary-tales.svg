@@ -1,0 +1,17 @@
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" overflow="visible" enable-background="new 0 0 60 60"
+	 xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<rect x="1" y="1" fill="#FFFFFF" width="58" height="58"/>
+	<path d="M58,2v56H2V2H58 M60,0H0v60h60V0L60,0z"/>
+</g>
+<g>
+	<rect width="20" height="60"/>
+</g>
+<g>
+	<rect x="40" width="20" height="60"/>
+</g>
+</svg>

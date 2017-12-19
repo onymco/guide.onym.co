@@ -1,0 +1,108 @@
+article header .wrapper,
+article .content,
+nav a {
+  max-width: 51.875rem;
+  margin: 0 auto;
+  padding: 0 2rem;
+  @media (max-width: $mobile-width) {
+    margin: 0;
+  }
+}
+
+article {
+  padding: 2.875rem 0 6.25rem;
+  header {
+    position: relative;
+    width: 100%;
+    margin-bottom: 2.875rem;
+    h1 {
+      display: inline-block;
+      vertical-align: middle;
+      margin: 0.25rem 0;
+    }
+    svg {
+      height: 3.75rem;
+      width: auto;
+      margin: 0.25rem 2.5rem 0.25rem 0;
+      vertical-align: middle;
+      @media (max-width: $mobile-width) {
+        height: 2rem;
+        margin-right: 1rem;
+      }
+    }
+  }
+  ul {
+    list-style: none;
+    margin-left: 0;
+  }
+  h2 + p {
+    margin: -2.75rem 0 3rem;
+  }
+  h3 + p {
+    margin: -1rem 0 1.625rem;
+  }
+  .content > ul > li {
+    margin-bottom: 3rem;
+    p {
+      margin-bottom: 0;
+      padding-bottom: 0.5rem;
+    }
+    @media (max-width: $mobile-width) {
+      margin-bottom: 1.5rem;
+      > p:last-child, > ul:last-child {
+        li:not(:first-of-type) {
+          padding-left: 1rem;
+        }
+      }
+    }
+    @media (min-width: $mobile-width) {
+      display: flex;
+      > p:first-child {
+        margin-right: 0.625rem;
+        flex: 1 1 25%;
+      }
+      > p:last-child, > ul:last-child {
+        flex: 1 1 75%;
+        li:not(:first-of-type) {
+          padding-left: 1.875rem;
+        }
+      }
+    }
+    li:first-child {
+      padding: 0;
+    }
+  }
+  .longform {
+    @media (min-width: $mobile-width) {
+      padding: 0 6.25rem 0 2rem;
+    }
+  }
+}
+
+#the-basics {
+  font-size: 1rem;
+  header {
+    @media (max-width: $mobile-width) {
+      margin-bottom: 2.5rem;
+      .title {
+        margin-bottom: 0.5rem;
+      }
+    }
+    @media (min-width: $mobile-width) {
+      .wrapper {
+        display: flex;
+      }
+      .title, .subtitle {
+        flex: 1 1 50%;
+        margin: 0;
+      }
+      .subtitle .subwrapper {
+        position: relative;
+        top: 50%;
+        -ms-transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+      }
+    }
+  }
+}
