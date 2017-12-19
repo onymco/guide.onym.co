@@ -49,6 +49,7 @@ article .longform {
 .site__content article:first-child {
   color: lighten(#000, 65%);
   h1 { color: $black; }
+  a { color: $black; }
   svg { fill: $black; }
 }
 

@@ -35,6 +35,7 @@ name.
 If you find the site useful, consider joining our mailing list below
 where we’ll send occasional thoughts and additional
 resources on naming. And if you see something that would be a good
-addition to the site, submit an edit via Github or drop us a line.
+addition to the site, submit an edit via
+[Github](https://github.com/onymco/onym.co) or drop us a line.
 
 – Greg and Willem
