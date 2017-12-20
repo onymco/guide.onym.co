@@ -19,7 +19,9 @@ Dictionaries
 
   - [RhymeZone](http://www.rhymezone.com/) –
     An effective rhyming dictionary that categorizes results by number
-    of syllables and includes near-rhymes and offers solid searches.
+    of syllables and includes near-rhymes and offers solid
+    searches. Don’t miss the “Find synonyms” option – it’s perhaps the
+    best thesaurus out there for naming purposes.
 
 - [Dictionary.com](http://www.dictionary.com/)
   
