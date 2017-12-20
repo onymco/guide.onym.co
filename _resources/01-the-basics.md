@@ -3,7 +3,7 @@ title: "Onym"
 ---
 
 Naming is hard. Names, after all, are perhaps the most
-indelible part of the product creation process. Brands
+indelible artifacts of the product creation process. Brands
 are redesigned with a lustrum regularity and codebases are
 continually rewritten and replaced, but a
 name, for better or worse, usually sticks.
