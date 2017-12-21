@@ -17,9 +17,13 @@ image: /assets/imgs/agencies-bw.svg
 
   Named: Ancestry.com, Asana, Clover, McCafe, PopChips, Vudu.
 
+- [Gin Lane](http://idiomnaming.com/projects/)
+
+  Named: Hello Alfred, Sunday Goods, Noon, Recess, Tomorrow, TYME
+
 - [Idiom](http://idiomnaming.com/projects/)
 
-  Named: Munch'ems,
+  Named: FogDog, Munch'ems, Wheatables
 
 - [Igor](https://www.igorinternational.com/clients/case-studies-naming-agencies.php)
 
@@ -47,7 +51,7 @@ image: /assets/imgs/agencies-bw.svg
 
 - [Pieratt](http://pieratt.com/)
 
-  Startup naming firm: Oscar, Pronoun, Electric Objects, WorkOf, Mediar, Maison Sport, Olli, Very Goods, Svpply
+  Named: Electric Objects, Maison Sport, Mediar, Olli, Oscar, Pronoun, Svpply, Very Goods, WorkOf
 
 - [Zinzin](https://www.zinzin.com/)
   
