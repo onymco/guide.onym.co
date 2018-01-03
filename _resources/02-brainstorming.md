@@ -123,6 +123,10 @@ Word Generators / Other Tools
 
   Generate random given names based on nationality, fantasy, or root.
 
+- [Fantasy Name Generator](http://www.fantasynamegenerators.com/)
+  
+  Generates names, words, and descriptions in nearly every category possible including well-known fictional universes, every known culture, places, flora and fauna, pop culture, and more. A one-stop shop for inspiration or worldbuilding.
+
 - [Building an Alien Language](https://worldbuilding.stackexchange.com/questions/3478/are-there-techniques-for-creating-alien-or-foreign-sounding-names)
 
   A forum with resources on how to construct a convincing (sounding)
