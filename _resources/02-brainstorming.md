@@ -114,6 +114,10 @@ Associations
 Word Generators / Other Tools
 -----------------------------
 
+- [Fantasy Name Generator](http://www.fantasynamegenerators.com/)
+  
+  Generates names, words, and descriptions in nearly every category possible including well-known fictional universes, every known culture, places, flora and fauna, pop culture, and more. A one-stop shop for inspiration or worldbuilding.
+
 - [Ngram Viewer](https://books.google.com/ngrams/graph)
 
   Compare the popularity of words across the massive corpus of Google
