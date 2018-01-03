@@ -114,10 +114,6 @@ Associations
 Word Generators / Other Tools
 -----------------------------
 
-- [Fantasy Name Generator](http://www.fantasynamegenerators.com/)
-  
-  Generates names, words, and descriptions in nearly every category possible including well-known fictional universes, every known culture, places, flora and fauna, pop culture, and more. A one-stop shop for inspiration or worldbuilding.
-
 - [Ngram Viewer](https://books.google.com/ngrams/graph)
 
   Compare the popularity of words across the massive corpus of Google
@@ -126,6 +122,10 @@ Word Generators / Other Tools
 - [Behind the Name Generator](https://www.behindthename.com/random/)
 
   Generate random given names based on nationality, fantasy, or root.
+
+- [Fantasy Name Generator](http://www.fantasynamegenerators.com/)
+  
+  Generates names, words, and descriptions in nearly every category possible including well-known fictional universes, every known culture, places, flora and fauna, pop culture, and more. A one-stop shop for inspiration or worldbuilding.
 
 - [Building an Alien Language](https://worldbuilding.stackexchange.com/questions/3478/are-there-techniques-for-creating-alien-or-foreign-sounding-names)
 
