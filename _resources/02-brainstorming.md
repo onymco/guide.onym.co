@@ -198,7 +198,7 @@ tools to help aid in that search.
 
   2017's most popular girl and boy names.
 
-- [Namberry](https://nameberry.com/)
+- [Nameberry](https://nameberry.com/)
 
   50,000+ database of baby names with popularity, lists (trends, cool,
   classic, etc.), and a name generator.
