@@ -194,6 +194,14 @@ tools to help aid in that search.
   real-sounding names sourced from samples in the US Census. Offers
   the ability to toggle rarity of the names generated.
 
+- [Baby Name Wizard](http://www.babynamewizard.com)
+
+  An extensive database of baby names with perhaps the best tools
+  for digging through them. Don't miss their
+  [NameVoyager](http://www.babynamewizard.com/voyager), for exploring
+  trends across decades, as well as their OKCupid-style
+  [data analysis blog posts](http://www.babynamewizard.com/archives/2010/4/the-generational-sweet-spot-or-why-your-parents-have-such-bad-taste).
+
 - [Most Popular Baby Names](https://www.babycenter.com/top-baby-names-2017.htm)
 
   2017's most popular girl and boy names.
