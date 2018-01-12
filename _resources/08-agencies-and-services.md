@@ -53,7 +53,7 @@ image: /assets/imgs/agencies-bw.svg
 
   Named: Electric Objects, Maison Sport, Mediar, Olli, Oscar, Pronoun, Svpply, Very Goods, WorkOf
   
-- [Salt Branding] (http://www.saltbranding.com/)
+- [Salt Branding](http://www.saltbranding.com/)
   
   Named: WiFi, Jawbone, XboxONE, Microsoft Surface, Glu
 
