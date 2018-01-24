@@ -17,7 +17,7 @@ image: /assets/imgs/agencies-bw.svg
 
   Named: Ancestry.com, Asana, Clover, McCafe, PopChips, Vudu.
 
-- [Gin Lane](http://idiomnaming.com/projects/)
+- [Gin Lane](https://www.ginlane.com/#our-work)
 
   Named: Hello Alfred, Sunday Goods, Noon, Recess, Tomorrow, TYME
 
