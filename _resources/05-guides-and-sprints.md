@@ -25,7 +25,7 @@ image: /assets/imgs/guides-bw.svg
 
 - [The Naming Process](https://www.igorinternational.com/process/company-product-names.php)
 
-  A surprisingly thorough naming guide from Naming Agency Igor. They also have a [24 page PDF](https://www.igorinternational.com/process/igor-naming-guide_short.pdf) guide from 2014 and a [122 page PDF](https://www.igorinternational.com/process/igor-naming-guide.pdf) guide from 2011. Requisite [NPR visit](http://www.npr.org/2011/10/12/141276794/product-names-make-dasani-and-swiffers-sell) from the author.
+  A surprisingly thorough naming guide from naming agency Igor. They also have a [24 page PDF](https://www.igorinternational.com/process/igor-naming-guide_short.pdf) guide from 2014 and a [122 page PDF](https://www.igorinternational.com/process/igor-naming-guide.pdf) guide from 2011. Requisite [NPR visit](http://www.npr.org/2011/10/12/141276794/product-names-make-dasani-and-swiffers-sell) from the author.
 
 - [The Three Hour Branding Sprint](https://library.gv.com/the-three-hour-brand-sprint-3ccabf4b768a)
 
