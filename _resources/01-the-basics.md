@@ -12,7 +12,7 @@ That’s because a good name is a hook that sets itself into a person's mind,
 linking their brain back to your idea – try to reset the hook and you
 risk losing the connection. The process of naming, then, is the process
 of neatly packaging up that idea, discovering where it begins and ends 
-so it can be linked as a discrete, easily be remembered concept.
+so it can be linked as a discrete, easily remembered concept.
 
 A good name can help a company or product become successful, of
 course, but it can also help the lowliest code library find an
