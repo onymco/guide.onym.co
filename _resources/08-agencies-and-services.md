@@ -13,7 +13,7 @@ image: /assets/imgs/agencies-bw.svg
 
   Named: Bubblicious, Chef Boyardee, Civitas, Doritos Jacked, Ensure, Kellogg's Smart Start, Prevacid, Trident Gum
 
-- [Catchwords](http://catchwordbranding.com/full-portfolio/#?sort=acf.tbcw_full_portfolio_custom_sort_order)
+- [Catchword](http://catchwordbranding.com/full-portfolio/#?sort=acf.tbcw_full_portfolio_custom_sort_order)
 
   Named: Ancestry.com, Asana, Clover, McCafe, PopChips, Vudu.
 
