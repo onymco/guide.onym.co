@@ -53,6 +53,8 @@ $(function(){
     // Remove links that don't actually link to anything
     .not('[href="#"]')
     .not('[href="#0"]')
+    .not('[href^="http://"]')
+    .not('[href^="https://"]')
     .click(function(event) {
       if (nav_is_collapsed()) return event.preventDefault();
       // On-page links
