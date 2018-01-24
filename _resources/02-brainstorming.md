@@ -244,7 +244,7 @@ Rare geographic terms and exotic locations.
 ### Mythology
 
 Some of the most iconic brands today are named for ancient gods and
-goddesses. #TODO
+goddesses.
 
 - [Greek Gods & Goddesses](https://greekgodsandgoddesses.net/gods/)
 
