@@ -48,6 +48,10 @@ image: /assets/imgs/agencies-bw.svg
 - [Namebase](http://www.namebase.com/)
 
   Named: American Airlines Aadvantage, Coca-cola Fruitopia, Kia Sorento
+  
+- [The Naming Group](http://thenaminggroup.com/work/)
+
+  Named: Chevy Sonic, Capital One Quicksilver, Reebok Tranzen, New Belgium Slow Ride
 
 - [Pieratt](http://pieratt.com/)
 
