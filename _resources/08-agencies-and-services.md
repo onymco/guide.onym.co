@@ -27,7 +27,7 @@ image: /assets/imgs/agencies-bw.svg
 
 - [Igor](https://www.igorinternational.com/clients/case-studies-naming-agencies.php)
 
-  Named: Aria Hotel & Casino, Cutthroat Kitchen, Gogo Inflight Internet, TruTV
+  Named: Cutthroat Kitchen, TruTV, North Face Ventrix, Palm Folio
 
 - [Interbrand](http://interbrand.com/services/naming/)
 
