@@ -8,7 +8,7 @@ Thanks for stopping by.
 Lancker](http://willemvanlancker.com) joint production. The name comes from the suffix *-onym* used to denote specific types of names — from the Greek word *ónoma* meaning "name." 
 
 It was designed and built in Cambridge, MA and Red Hook, Brooklyn, NY. The
-site is (appropriately) set in [Unititled
+site is (appropriately) set in [Untitled
 Sans](https://klim.co.nz/retail-fonts/untitled-sans/) designed by
 [Klim Type Foundry](https://klim.co.nz). Each section's header icons
 are adapted from the [International Code of
