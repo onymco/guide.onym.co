@@ -347,6 +347,10 @@ goddesses.
 
   The official glossary for U.S. courts legal terms. Ex: acquittal,
   docket, hearsay.
+  
+- [Lighthouses](https://www.seathelights.com/other/glossary.html)
+
+  Glossary terms collected from the United States Lighthouse Society and United States Coast Guard.
 
 - [Math words](http://www.mathwords.com/a_to_z.htm)
 
