@@ -38,3 +38,8 @@ image: /assets/imgs/guides-bw.svg
 - [Zinzin's Process for Naming](https://www.zinzin.com/process/)
 
   A summary of branding agency Zinzin's process for naming companies and products. They also assembled a [100+ page PDF](https://www.zinzin.com/guides/zinzin-naming-guide.pdf) Naming guide.
+
+- [Spanish: A Proven Naming System ]( https://www.udemy.com/nombre-mas-vende-marcas-naming/ )
+
+  The NAME that SELLS the most. System Guaranteed with the best tools, techniques and resources that will save you time and money, when you name your brand. The system after creating the name, takes you to find the profiles of Social Networks and Web domains available for your product, your idea, your startup or your company
+
