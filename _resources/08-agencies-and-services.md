@@ -60,7 +60,11 @@ image: /assets/imgs/agencies-bw.svg
 - [Salt Branding](http://www.saltbranding.com/)
   
   Named: WiFi, Jawbone, XboxONE, Microsoft Surface, Glu
-  
+
+- [Tanj](https://tanj.co)
+
+  Named: Nintendo Wii, Filmstruck, Sony Bravia, Coffee-Mate Natural Bliss
+
 - [Wordworking](http://www.wordworking.com/)
 
   Named: Dorsal, Mast Mobile, SENS8
