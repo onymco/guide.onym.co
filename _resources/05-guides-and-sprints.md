@@ -38,3 +38,7 @@ image: /assets/imgs/guides-bw.svg
 - [Zinzin's Process for Naming](https://www.zinzin.com/process/)
 
   A summary of branding agency Zinzin's process for naming companies and products. They also assembled a [100+ page PDF](https://www.zinzin.com/guides/zinzin-naming-guide.pdf) Naming guide.
+  
+- [Tanj's Naming Guides](https://tanj.co/guides/)
+
+  Branding firm Tanj provides two different naming guides, [one oriented toward the DIYer](http://tanj.co/make_a_name_for_yourself_tanj_company_naming_guide_V1.pdf) looking to name or rename their own company and [another oriented toward marketing professionals](https://tanj.co/now_name_it_tanj_product_naming_guide_v1.pdf) tasked with naming products and services.
