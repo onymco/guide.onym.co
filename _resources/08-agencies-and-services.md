@@ -100,6 +100,14 @@ image: /assets/imgs/agencies-bw.svg
 
   Pay freelancers to generate names for your brand or product. Results are a bit hit or miss.
 
+- [Sutton Strategy](http://suttonstrategy.com/services/linguistic-analysis/)
+
+  Linguistic analysis provided by a linguist with a marketing background.
+
+- [Tessera](http://tessera.bz/)
+
+  Preliminary trademark screening from a former Lexicon Branding trademark research consultant.
+
 - [The Name Inspector](http://www.thenameinspector.com/)
 
   A great (but discontinued) blog on naming trends and news.
