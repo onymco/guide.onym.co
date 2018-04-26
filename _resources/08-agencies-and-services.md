@@ -17,6 +17,10 @@ image: /assets/imgs/agencies-bw.svg
 
   Named: Ancestry.com, Asana, Clover, McCafe, PopChips, Vudu.
 
+- [Eat My Words](http://eatmywords.com/)
+
+  Name: Wrigley's Alert Gum, Del Monte Bloom, Hand Job Nails & Spa
+
 - [Gin Lane](https://www.ginlane.com/#our-work)
 
   Named: Hello Alfred, Sunday Goods, Noon, Recess, Tomorrow, TYME
