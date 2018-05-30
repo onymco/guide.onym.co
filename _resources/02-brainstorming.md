@@ -72,6 +72,10 @@ Associations
   One of the web's most powerful thesauruses. Search by single word or
   phrase. Great for quickly generating lists of loosely related
   words.
+  
+- [Power Thesaurus](https://www.powerthesaurus.org/)
+
+  A strong crowdsourced thesaurus (relying on upvotes for synonyms) with an interface that makes it easy to quickly churn through related terms.
 
 - [Thesaurus.com](http://www.thesaurus.com/)
 
