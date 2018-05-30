@@ -29,9 +29,9 @@ Dictionaries
   terms. A good jumping off point but unlikely to get you to the end
   of your search.
   
-  - [The Free Dictionary](https://www.thefreedictionary.com/)
+- [The Free Dictionary](https://www.thefreedictionary.com/)
 
-  - A powerful search engine and dictionary ideal for quick broswing & generation. Each word page is rich with definitions, synonyms, references, and related words. A great place to start any search.
+A powerful search engine and dictionary ideal for quick broswing & generation. Each word page is rich with definitions, synonyms, references, and related words. A great place to start any search.
 
 - [Green's Dictionary of Slang](https://greensdictofslang.com/)
 
