@@ -13,6 +13,10 @@ Cultural Sensitivity
 - [Word Safety](http://wordsafety.com/)
 
   Search across 19+ languages to ensure your name isn't in offensive in a foreign language.
+  
+- [Forvo](https://forvo.com/)
+
+  An extensive collection of audio recordings of speakers with various accents and cultural backgrounds pronouncing words.
 
 Trademarks
 ----------
