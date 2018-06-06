@@ -60,7 +60,8 @@ Dictionaries
 
   The world's largest online dictionary (by number of words). Wordnik
   shows definitions from multiple sources, example sentences, rhymes,
-  and related words. A powerful comprehensive tool.
+  and related words. Don't miss the [advanced search](https://www.wordnik.com/search),
+  which allows for regular expression style matching.
 
 Associations
 ------------
