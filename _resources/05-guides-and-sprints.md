@@ -46,3 +46,7 @@ image: /assets/imgs/guides-bw.svg
 - [Interbrand's Naming Handbook](https://sf-asset-manager.s3.amazonaws.com/95993/1052/7830.pdf)
 
   Interbrand provides a naming handbook as part of their client lead generation funnel and, while less detailed than those from other firms, it serves as a good overview for those looking to quickly orient themselves to the process of naming.
+  
+- [Catchword's Naming Guide](https://catchwordbranding.com/wp-content/uploads/2016/03/CW_NamingGuide_100914.pdf)
+
+  A guide aimed at those looking to tackle naming themselves.
