@@ -74,6 +74,16 @@ Associations
   phrase. Great for quickly generating lists of loosely related
   words.
   
+- [Moby Thesaurus](http://moby-thesaurus.org/)
+
+  A self-described "[weird](http://moby-thesaurus.org/search?q=weird) and 
+  [wonderful](http://moby-thesaurus.org/search?q=wonderful) reference full 
+  of [unusual](http://moby-thesaurus.org/search?q=unusual) and 
+  [illuminating](http://moby-thesaurus.org/search?q=illuminating) word 
+  [relationships](http://moby-thesaurus.org/search?q=relationship)," every
+  entry is an exercise in free association. A must-visit, especially if
+  you're stuck.
+  
 - [Power Thesaurus](https://www.powerthesaurus.org/)
 
   A strong crowdsourced thesaurus (relying on upvotes for synonyms) with an interface that makes it easy to quickly churn through related terms.
