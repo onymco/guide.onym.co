@@ -133,7 +133,7 @@ Associations
 Word Generators / Other Tools
 -----------------------------
 
-- [Ngram Viewer](https://books.google.com/ngrams/graph)
+- [Ngram Viewer](https://books.google.com/ngrams/)
 
   Compare the popularity of words across the massive corpus of Google
   Books.
