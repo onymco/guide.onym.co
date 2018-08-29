@@ -39,7 +39,7 @@ Trademarks
 
 - [Trademarkia](http://www.trademarkia.com/)
 
-  Search millions of U.S. trademarks filed in 1870.
+  Search millions of U.S. trademarks filed since 1870.
 
 - [USPTO Trademark Search](http://tmsearch.uspto.gov/bin/gate.exe?f=tess&state=4802:5z1ttd.1.1)
 
