@@ -37,7 +37,7 @@ Trademarks
 
   A paid trademark search engine. Offers more sophisticated tools than other free offerings.
 
-- [Trademarkia](http://www.trademarkia.com/)
+- [Trademarkia](https://www.trademarkia.com/search.aspx)
 
   Search millions of U.S. trademarks filed since 1870.
   
