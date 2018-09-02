@@ -180,6 +180,11 @@ Word Generators / Other Tools
 - [Universal Text Combination Generator](http://textmechanic.com/text-tools/combination-permutation-tools/permutation-generator/)
   
   Useful for seeing how words might fit together.
+  
+- [MRC Psycholinguistic Database](http://websites.psychology.uwa.edu.au/school/MRCDatabase/uwa_mrc.htm)
+
+  "This database can be used to create word stimuli that have different properties and control for other properties." 
+  Challenging to use but often rewarding. Don't miss [this primer](http://cognitrn.psych.indiana.edu/busey/q270/Memory/How%20to%20use%20the%20MRC%20Database.doc) on how to use it.
 
 
 Inspiration (Glossaries, Technical Terms)
