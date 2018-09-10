@@ -64,7 +64,7 @@ $font-family__body:     "Untitled Sans", Helvetica, Arial, sans-serif;
 
 /// Styles
 /// -------------
-body, input {
+body, input, #past_issues {
   font: $font-weight__light $font-size__base $font-family__body;
 }
 body {

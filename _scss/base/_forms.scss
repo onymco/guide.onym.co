@@ -1,4 +1,8 @@
 input[type="email"] {
   width: 40%;
   padding: 0.25rem;
+  display: inline;
+}
+input[type="submit"] {
+  margin-right: 1rem;
 }
