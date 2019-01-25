@@ -21,6 +21,22 @@ Cultural Sensitivity
 Trademarks
 ----------
 
+- [WIPO Global Brand Database](https://www.wipo.int/branddb/en/index.jsp)
+
+  Search trademarks across international jurisdictions.
+
+- [Trademarkia](https://www.trademarkia.com/search.aspx)
+
+  Search millions of U.S. trademarks filed since 1870.
+
+- [Corsearch](https://corsearch.com/)
+
+  A paid trademark screening and clearance search engine.
+
+- [USPTO Trademark Search](http://tmsearch.uspto.gov/bin/gate.exe?f=tess&state=4802:5z1ttd.1.1)
+
+  The United States Patent and Trademark Office's official search. Useful tool when vetting candidate names.
+
 - [App Annie](https://www.appannie.com)
 
   Leader in App Store search. Useful for finding vetting names for existing apps and services.
@@ -36,18 +52,6 @@ Trademarks
 - [Markify](http://www.markify.com/)
 
   A paid trademark search engine. Offers more sophisticated tools than other free offerings.
-
-- [Trademarkia](https://www.trademarkia.com/search.aspx)
-
-  Search millions of U.S. trademarks filed since 1870.
-  
-- [Corsearch](https://corsearch.com/)
-  
-  A paid trademark screening and clearance search engine.
-
-- [USPTO Trademark Search](http://tmsearch.uspto.gov/bin/gate.exe?f=tess&state=4802:5z1ttd.1.1)
-
-  The United States Patent and Trademark Office's official search. Useful tool when vetting candidate names.
 
 Domains & Social
 ----------------
