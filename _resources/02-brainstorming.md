@@ -50,12 +50,6 @@ Dictionaries
   A helpful tool for describing technology terms by using analogies
   instead of dense terminology.
 
-- [Urban Dictionary](http://www.urbandictionary.com/)
-
-  The people's internet dictionary. Find obscure memes, definitions
-  and phrases. Useful to check if your selected name is offensive or
-  has an obscure second meaning.
-
 - [Wordnik](http://www.wordnik.com/)
 
   The world's largest online dictionary (by number of words). Wordnik
