@@ -39,7 +39,7 @@ Trademarks
 
 - [App Annie](https://www.appannie.com)
 
-  Leader in App Store search. Useful for finding vetting names for existing apps and services.
+  Leader in App Store search. Useful for finding names of existing apps and services that aren't readily surfaced via web searches.
 
 - [Logobook](http://www.logobook.com/)
 
