@@ -184,8 +184,11 @@ Word Generators / Other Tools
 Inspiration (Glossaries, Technical Terms)
 -----------------------------------------
 
-Inspiration can be found in the most random places --- jaunt (Alfred
-Bester) example. #TODO
+Inspiration can be found in the most random places.
+
+- [Phrontistery](http://phrontistery.info)
+
+  An ecclectic compendium of "rare, cool, and unusual words," including words lost to the ages and a collection of glossaries.
 
 - [Three letter words](http://www.yak.net/kablooey/scrabble/3letterwords.html)
 
