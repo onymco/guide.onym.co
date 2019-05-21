@@ -24,6 +24,10 @@ Trademarks
 - [WIPO Global Brand Database](https://www.wipo.int/branddb/en/index.jsp)
 
   Search trademarks across international jurisdictions.
+  
+- [TMview](https://www.tmdn.org/tmview/welcome.html)
+
+  A global trademark search engine that extends beyond the reach of WIPO's search offering.
 
 - [Trademarkia](https://www.trademarkia.com/search.aspx)
 
