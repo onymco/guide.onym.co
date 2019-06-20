@@ -37,7 +37,7 @@ image: /assets/imgs/guides-bw.svg
 
 - [Zinzin's Process for Naming](https://www.zinzin.com/process/)
 
-  A summary of branding agency Zinzin's process for naming companies and products. They also assembled a [100+ page PDF](https://www.zinzin.com/guides/zinzin-naming-guide.pdf) Naming guide.
+  A summary of branding agency Zinzin's process for naming companies and products. They also assembled a [100+ page PDF](https://www.zinzin.com/guides/zinzin-naming-guide_v5.0.pdf) Naming guide.
 
 - [Tanj's Naming Guides](https://tanj.co/guides/)
 
