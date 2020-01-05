@@ -117,6 +117,12 @@ Associations
   translations, and other pages around the web where the word is
   properly used so you can get a feel for how a word used.
   
+- [Translatr](https://translatr.varunmalhotra.xyz)
+
+  Translate words and phrases into multiple languages at once.
+  [Nice Translator](https://nicetranslator.com) provides similar
+  functionality but offers a less convenient interface.
+  
 - [SDL Trados Studio](http://www.sdl.com/software-and-services/translation-software/sdl-trados-studio/)
 
   One of the most recommended computer-assisted translation tools,
