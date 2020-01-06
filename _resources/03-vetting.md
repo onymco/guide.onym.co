@@ -37,7 +37,7 @@ Trademarks
 
   A paid trademark screening and clearance search engine.
 
-- [USPTO Trademark Search](http://tmsearch.uspto.gov/bin/gate.exe?f=tess&state=4802:5z1ttd.1.1)
+- [USPTO Trademark Search](http://tmsearch.uspto.gov)
 
   The United States Patent and Trademark Office's official search. Useful tool when vetting candidate names.
 
