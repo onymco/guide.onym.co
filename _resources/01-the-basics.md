@@ -4,7 +4,7 @@ title: "Onym"
 
 Naming is hard. Names, after all, are perhaps the most
 indelible artifacts of the product creation process. Brands
-are redesigned with a lustrum regularity and codebases are
+are redesigned with regularity and codebases are
 continually rewritten and replaced but a name,
 for better or worse, usually sticks.
 
@@ -33,8 +33,7 @@ name.
 
 If you find the site useful, consider joining our mailing list below
 where we’ll send occasional thoughts and additional
-resources on naming. And if you see something that would be a good
-addition to the site, submit an edit via
-[Github](https://github.com/onymco/onym.co) or drop us a line.
+resources on naming. And if you need support on your upcoming naming
+project drop us a line and we'd be happy to help.
 
 – Greg and Willem
