@@ -34,6 +34,6 @@ name.
 If you find the site useful, consider joining our mailing list below
 where we’ll send occasional thoughts and additional
 resources on naming. And if you need support on your upcoming naming
-project drop us a line and we'd be happy to help.
+project, drop us a line and we'd be happy to help.
 
 – Greg and Willem
