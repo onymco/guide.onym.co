@@ -102,6 +102,10 @@ Associations
   to learn how language works. This is the most pro-level linguistic tool in
   this list. Paid product with 30-day free trial.
 
+- [Phrase Thesaurus](https://www.phrases.org.uk/phrase-thesaurus/search/index.html)
+
+  Enter a word and this thesaurus will display a list of phrases/sayings that are related to it.
+
 ### Translators
 
 - [Google Translate](https://translate.google.com/)
