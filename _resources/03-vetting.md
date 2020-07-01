@@ -25,7 +25,7 @@ Trademarks
 
   Search trademarks across international jurisdictions.
   
-- [TMview](https://www.tmdn.org/tmview/welcome.html)
+- [TMview](https://www.tmdn.org/tmview/)
 
   A global trademark search engine that extends beyond the reach of WIPO's search offering.
 
