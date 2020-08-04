@@ -167,6 +167,8 @@ title: "Etymologies"
 Collections
 ------------
 
+- [Wikipedia --- "List of company name etymologies" entry](https://en.wikipedia.org/wiki/List_of_company_name_etymologies)
+
 - [A Hundred Monkeys --- all Case Studies](https://www.ahundredmonkeys.com/work/case-studies/)
 
 - [Igor --- all Case Studies](https://www.igorinternational.com/clients/case-studies-naming-agencies.php)
