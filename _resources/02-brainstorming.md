@@ -190,6 +190,10 @@ Word Generators / Other Tools
   "This database can be used to create word stimuli that have different properties and control for other properties." 
   Challenging to use but often rewarding. Don't miss [this primer](http://cognitrn.psych.indiana.edu/busey/q270/Memory/How%20to%20use%20the%20MRC%20Database.doc) on how to use it.
 
+- [Generic company name endings](https://www.reddit.com/r/Entrepreneur/comments/4jfrgl/is_there_a_list_of_generic_company_name_endings/)
+
+  A list of generic terms that can be appended to a name (ex: "Partners", "Solutions")
+  in order to avoid potential conflicts with other entities who might have the same name.
 
 Inspiration (Glossaries, Technical Terms)
 -----------------------------------------
