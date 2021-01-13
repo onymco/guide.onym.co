@@ -535,6 +535,11 @@ goddesses.
 - [Weather](https://www.wunderground.com/glossary/)
 
   Terms more TV meteorologists won't even know. Ex: altostratus, continuum, ephemeris
+  
+- [Rainforest Glossary](https://www.enchantedlearning.com/subjects/rainforest/glossary/index.shtml)
+
+An illustrated glossary of terms pertaining to flora and fauna of the rainforest and jungle.
+
 
 ### Technology
 
