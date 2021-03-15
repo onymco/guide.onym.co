@@ -12,12 +12,12 @@
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "7.0.0",
+    "gulp-concat": "^2.6.1",
     "gulp-gh-pages": "^0.5.4",
-    "gulp-sass": "^4.0.2",
     "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.3",
-    "gulp-uglify": "^3.0.2",
-    "gulp-concat": "^2.6.1"
+    "gulp-uglify": "^3.0.2"
   },
   "repository": {
     "type": "git",
