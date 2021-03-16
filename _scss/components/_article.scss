@@ -73,11 +73,6 @@ article {
       padding: 0;
     }
   }
-  .longform {
-    @media (min-width: $mobile-width) {
-      padding: 0 6.25rem 0 2rem;
-    }
-  }
 }
 
 #intro {
