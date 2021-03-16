@@ -20,18 +20,23 @@ h4, p {
 }
 #mailinglist {
   margin-top: 2rem;
-  input {
-    border: 2px solid #E5E5E5;
-    padding: 0.5rem;
+  input, button {
     border-radius: 0.25rem;
   }
+  input {
+    border: .15rem solid #E5E5E5;
+    padding: 0.5rem;
+  }
   button {
+    transition: background-color 0.25s ease;
     font-weight: bold;
     font-size: 1rem;
     border: 0;
     background: none;
     cursor: pointer;
-    padding: 0;
-    margin: 0 0.5rem;
+    padding: 0.6rem;
+    &:hover {
+      background: #E5E5E5;
+    }
   }
 }
