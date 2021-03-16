@@ -106,9 +106,15 @@ article {
     }
   }
   .content {
-    font-size: 1.75rem;
-    p:nth-of-type(2) {
+    &, p:first-of-type {
+      font-size: 1.75rem;
+    }
+    p:first-of-type {
+      margin: 2rem 0;
+    }
+    p {
       font-size: 1rem;
+
     }
   }
   nav {

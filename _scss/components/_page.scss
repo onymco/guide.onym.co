@@ -18,3 +18,20 @@ h4, p {
   width: 100%;
   height: 5%;
 }
+#mailinglist {
+  margin-top: 2rem;
+  input {
+    border: 2px solid #E5E5E5;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+  }
+  button {
+    font-weight: bold;
+    font-size: 1rem;
+    border: 0;
+    background: none;
+    cursor: pointer;
+    padding: 0;
+    margin: 0 0.5rem;
+  }
+}
