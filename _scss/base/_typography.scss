@@ -104,10 +104,3 @@ article .longform {
     font-size: 1.5rem;
   }
 }
-
-nav h1 {
-  @media (max-width: $mobile-width),
-         (max-height: $mobile-height){
-    font-size: 1rem;
-  }
-}

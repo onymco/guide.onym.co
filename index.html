@@ -9,7 +9,7 @@ layout: default
       {% include {{ resource.slug | slice: 3, resource.slug.size }}.svg %}<h1>{{ resource.title }} <a href="#{{ resource.slug }}"></a></h1>
     </div>
   </header>
-  <div class="content">
+  <div class="content wrapper">
     {{ resource.content }}
   </div>
 </article>

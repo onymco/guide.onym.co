@@ -13,6 +13,19 @@ article .longform {
   color: $black;
 }
 
+.brand-bars {
+  $step: 100/(length($rainbow) - 2);
+  $gradient: null;
+  @for $i from 2 to length($rainbow) {
+    $color: nth($rainbow, $i);
+    @if($i != 2){
+      $gradient: append($gradient, $color (($i - 2) * $step) + unquote("%"), $separator: comma);
+    }
+    $gradient: append($gradient, $color (($i - 1) * $step) + unquote("%"), $separator: comma);
+  }
+  background: linear-gradient($gradient);
+}
+
 .credit a {
   color: inherit;
 }
@@ -22,15 +35,6 @@ article .longform {
   $color-darker: darken($color, 60%);
   $color-hover: mix($white, $color, 50%);
   $next-color: if($i < length($rainbow), nth($rainbow, $i+1), white);
-  nav li:nth-child(#{$i}) {
-    background-color: $color;
-    border-color: $color;
-  }
-  nav li:nth-child(#{$i}):hover {
-    background-color: $color-hover;
-    border-color: $color-hover;
-    svg { fill: $color; }
-  }
   article:nth-child(#{$i}) {
     background: linear-gradient(to bottom, mix($white, $color, $fade-light) 0%, mix($white, $color, $fade-light) 80%, mix($white, $next-color, $fade-light) 100%);
     color: darken(desaturate($color, 75%), 10%);
@@ -46,6 +50,10 @@ article .longform {
   }
 }
 
+.subtitle {
+  color: #828282;
+}
+
 .site__content article:first-child {
   color: lighten(#000, 65%);
   h1 { color: $black; }
@@ -53,11 +61,10 @@ article .longform {
   svg { fill: $black; }
 }
 
-article:first-child header:hover svg,
-nav li:first-child:hover svg {
+article:first-child header:hover svg {
   fill: $black;
 }
 
-nav li:last-child h1 {
-  color: $white;
+nav {
+  color: $black;
 }

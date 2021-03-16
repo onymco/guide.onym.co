@@ -1,6 +1,4 @@
-article header .wrapper,
-article .content,
-nav a {
+.wrapper {
   max-width: 51.875rem;
   margin: 0 auto;
   padding: 0 2rem;
@@ -20,9 +18,12 @@ article {
       vertical-align: middle;
       margin: 0.25rem 0;
     }
-    svg {
-      height: 3.75rem;
-      width: auto;
+    $iconSize: 3.75rem;
+    .logo { width: $iconSize; }
+    svg { width: auto; }
+    .logo, svg {
+      display: inline-block;
+      height: $iconSize;
       margin: 0.25rem 2.5rem 0.25rem 0;
       vertical-align: middle;
       @media (max-width: $mobile-width) {
@@ -79,8 +80,11 @@ article {
   }
 }
 
-#the-basics {
+#intro {
   font-size: 1rem;
+  .subtitle {
+    font-weight: normal;
+  }
   header {
     @media (max-width: $mobile-width) {
       margin-bottom: 2.5rem;
@@ -92,17 +96,32 @@ article {
       .wrapper {
         display: flex;
       }
-      .title, .subtitle {
+      .title, .subhead {
         flex: 1 1 50%;
         margin: 0;
       }
-      .subtitle .subwrapper {
+      .subhead .subwrapper {
+        text-align: right;
         position: relative;
         top: 50%;
         -ms-transform: translateY(-50%);
         -webkit-transform: translateY(-50%);
         transform: translateY(-50%);
       }
+    }
+  }
+  .content {
+    font-size: 1.75rem;
+    p:nth-of-type(2) {
+      font-size: 1rem;
+    }
+  }
+  nav {
+    margin-top: 3rem;
+    padding-top: 3rem;
+    border-top: 0.25rem solid #E5E5E5;
+    li {
+      margin-bottom: 0.5rem;
     }
   }
 }
