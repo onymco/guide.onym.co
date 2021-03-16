@@ -15,21 +15,21 @@
 
   <meta itemprop="name" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
   <meta itemprop="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-  <meta itemprop="image" content="https://onym.co/assets/imgs/social.png">
+  <meta itemprop="image" content="{{ "/assets/imgs/social.png" | absolute_url }}">
 
   <meta property="fb:app_id" content="754098434775512">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <meta property="og:image" content="https://onym.co/assets/imgs/social.png">
+  <meta property="og:image" content="{{ "/assets/imgs/social.png" | absolute_url }}">
   <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:creator" content="@onym_co">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
-  <meta name="twitter:image" content="https://onym.co/assets/imgs/social.png">
-  <meta name="twitter:image:src" content="https://onym.co/assets/imgs/social.png">
+  <meta name="twitter:image" content="{{ "/assets/imgs/social.png" | absolute_url }}">
+  <meta name="twitter:image:src" content="{{ "/assets/imgs/social.png" | absolute_url }}">
   <meta name="twitter:image:alt" content="Onym title image">
   <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate:
     160 | escape }}">
