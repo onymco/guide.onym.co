@@ -1,4 +1,4 @@
-## <https://onym.co>
+## <https://guide.onym.co>
 
 Tools and resources for naming things. Collected by
 [Greg](http://leppert.me/) and
