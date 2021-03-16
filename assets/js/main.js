@@ -28,21 +28,6 @@ $(function(){
   // initialize the nav
   toggle_nav(false);
 
-  FULLTILT.getDeviceMotion().then(function(motionData) {
-    motionData.listen(function() {
-      var rotRate = motionData.getScreenAdjustedRotationRate();
-
-      if(rubberize_nav && nav_is_collapsed()){
-        $nav.css({height: Math.max(rotRate.alpha * -1, collapsed_height)});
-      }
-      if(rotRate.alpha > 225){
-        toggle_nav(false);
-      } else if(rotRate.alpha < -225){
-        toggle_nav(true);
-      }
-    });
-  }).catch(function(message) {});
-
   var hmr = new Hammer($("nav")[0]);
   hmr.get("swipe").set({direction: Hammer.DIRECTION_ALL});
   hmr.on("swipeup swipedown", function(ev){
