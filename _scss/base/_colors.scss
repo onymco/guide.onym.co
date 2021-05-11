@@ -8,8 +8,7 @@ body {
   color: lighten(#000, 65%);
 }
 
-h1, h2, h3, a,
-article .longform {
+h1, h2, h3, a, #intro {
   color: $black;
 }
 

@@ -97,12 +97,8 @@ em, i {
   font-style: italic;
 }
 
-article .longform {
+#intro .content p:first-of-type {
   font-weight: $font-weight__normal;
-  font-size: 1rem;
-  @media (min-width: $mobile-width) {
-    font-size: 1.5rem;
-  }
 }
 
 button {
