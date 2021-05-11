@@ -19,7 +19,13 @@ article {
       margin: 0.25rem 0;
     }
     $iconSize: 3.75rem;
-    .logo { width: $iconSize; }
+    $iconMobileSize: 2rem;
+    .logo {
+      width: $iconSize;
+      @media (max-width: $mobile-width) {
+        width: $iconMobileSize;
+      }
+    }
     svg { width: auto; }
     .logo, svg {
       display: inline-block;
@@ -27,7 +33,7 @@ article {
       margin: 0.25rem 2.5rem 0.25rem 0;
       vertical-align: middle;
       @media (max-width: $mobile-width) {
-        height: 2rem;
+        height: $iconMobileSize;
         margin-right: 1rem;
       }
     }
