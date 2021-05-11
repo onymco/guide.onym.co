@@ -39,10 +39,6 @@ article .longform {
     background: linear-gradient(to bottom, mix($white, $color, $fade-light) 0%, mix($white, $color, $fade-light) 80%, mix($white, $next-color, $fade-light) 100%);
     color: darken(desaturate($color, 75%), 10%);
     svg {
-      fill: $color-darker;
-      transition: fill 0.1s;
-    }
-    header:hover svg {
       fill: $color;
     }
     h1 { color: $color; }
