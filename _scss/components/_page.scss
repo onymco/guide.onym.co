@@ -16,14 +16,19 @@ h4, p {
   margin-bottom: 1rem;
 }
 #return-to-nav {
+  transition: all 0.35s ease;
+  opacity: 0;
   z-index: 99;
   position: fixed;
-  bottom: 10%;
-  right: 5%;
+  bottom: 7%;
+  right: 0;
   text-decoration: none;
   font-weight: bold;
   font-size: 2rem;
   padding: 0 1rem;
+  &.show {
+    opacity: 1;
+  }
 }
 #bottom-banner {
   z-index: 99;

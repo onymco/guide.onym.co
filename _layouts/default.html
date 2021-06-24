@@ -54,4 +54,13 @@
     <a id="return-to-nav" href="#main-nav">↑</a>
     <div id="bottom-banner" class="brand-bars"></div>
   </body>
+  <script>
+    var arrow = document.getElementById("return-to-nav"),
+        main = document.getElementById("main-nav"),
+        returnToNavFunc = function() {
+            arrow.className = main.getBoundingClientRect().bottom < 0 ? "show" : "";
+        };
+
+    window.addEventListener("scroll", returnToNavFunc);
+  </script>
 </html>
