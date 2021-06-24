@@ -100,8 +100,13 @@ article {
       display: flex;
     }
     .title, .subhead {
-      flex: 1 1 50%;
       margin: 0;
+    }
+    .title {
+      flex: 1 1 70%;
+    }
+    .subhead {
+      flex: 1 1 30%;
     }
     .subhead .subwrapper {
       text-align: right;
