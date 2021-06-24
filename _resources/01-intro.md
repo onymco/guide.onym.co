@@ -12,6 +12,4 @@ where we’ll send occasional thoughts and additional resources on
 naming. And if you see something that would be a good addition to the
 site, submit an edit via
 [Github](https://github.com/onymco/guide.onym.co) or [drop us a
-line](mailto: contact@onym.co).
-
-Thanks, [Greg](https://twitter.com/leppert) + [Willem](https://twitter.com/vanlancker)
+line](mailto: contact@onym.co). Thanks, [Greg](https://twitter.com/leppert) + [Willem](https://twitter.com/vanlancker)
