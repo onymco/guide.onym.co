@@ -3,52 +3,64 @@
 
   {% include head.html %}
 
-  <body>
-    <nav style="height: 0px;">
-      <ul>
-        {% for resource in site.resources %}
-        <li>
-          <a href="/#{{ resource.slug | slice: 3, resource.slug.size }}">
-            {% include {{ resource.slug | slice: 3, resource.slug.size }}.svg %}<h1>{{ resource.title }}</h1>
-          </a>
-        </li>
-        {% endfor %}
-      </ul>
-    </nav>
-    
+  <body>    
     <main class="site__content">
       {% for resource in site.resources limit: 1 %}
       <article id="{{ resource.slug | slice: 3, resource.slug.size }}">
         <header>
           <div class="wrapper">
             <div class="title">
-              {% include {{ resource.slug | slice: 3, resource.slug.size }}.svg %}<h1>{{ resource.title }} <a href="#{{ resource.slug }}"></a></h1>
+              <div class="brand-bars logo"></div>
+              <h1>
+                {{ resource.title }}
+                {% if resource.subtitle %}<span class="subtitle">{{ resource.subtitle }}</span>{% endif %}
+                <a href="#{{ resource.slug }}"></a>
+              </h1>
             </div>
-            <div class="subtitle">
+            <div class="subhead">
               <div class="subwrapper">
-                {{ site.description }}<br>
-                Collected by <a href="https://twitter.com/leppert">Greg</a> and <a href="https://twitter.com/vanlancker">Willem</a>.
+                <a href="mailto: contact@onym.co">Contact</a>
               </div>
             </div>
           </div>
         </header>
-        <div class="content longform">
+        <div class="content wrapper">
           {{ resource.content }}
-          <form action="https://leppert.us16.list-manage.com/subscribe/post?u=f12749db5967b17a715d19d6a&amp;id=d3e8c25525" method="post">
-            <input type="email" value="" name="EMAIL" placeholder="me@example.com">
-            <input type="submit" value="Subscribe" name="subscribe">
-            <a href="https://newsletter.onym.co" id="past_issues">View past issues</a>
+          <form id="mailinglist" action="https://leppert.us16.list-manage.com/subscribe/post?u=f12749db5967b17a715d19d6a&amp;id=d3e8c25525" method="post">
+            <input type="email" value="" name="EMAIL" placeholder="name@onym.co">
+            <button type="submit" value="Subscribe" name="subscribe">Subscribe</button>
           </form>
+        </div>
+
+        <div id="main-nav" class="wrapper">
+          <nav>
+            <ul>
+              <li>Contents:</li>
+              {% for resource in site.resources offset:1 %}
+              <li>
+                <a href="#{{ resource.slug | slice: 3, resource.slug.size }}">
+                  {{ resource.title }}
+                </a>
+              </li>
+              {% endfor %}
+            </ul>
+          </nav>
         </div>
       </article>
       {% endfor %}
 
       {{ content }}
     </main>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer-time/1.1.0/hammer-time.min.js"></script>
-    <script src="{{ "/assets/js/main.js" | relative_url }}?{{site.time | date: '%s%N'}}"></script>
+    <a id="return-to-nav" href="#main-nav">↑</a>
+    <div id="bottom-banner" class="brand-bars"></div>
   </body>
+  <script>
+    var arrow = document.getElementById("return-to-nav"),
+        main = document.getElementById("main-nav"),
+        returnToNavFunc = function() {
+            arrow.className = main.getBoundingClientRect().bottom < 0 ? "show" : "";
+        };
+
+    window.addEventListener("scroll", returnToNavFunc);
+  </script>
 </html>

@@ -69,6 +69,29 @@ body, input, #past_issues {
 }
 body {
   line-height: $leading;
+
+  -webkit-hyphens: auto;
+  -webkit-hyphenate-limit-before: 3;
+  -webkit-hyphenate-limit-after: 3;
+  -webkit-hyphenate-limit-chars: 6 3 3;
+  -webkit-hyphenate-limit-lines: 2;
+  -webkit-hyphenate-limit-last: always;
+  -webkit-hyphenate-limit-zone: 8%;
+  -moz-hyphens: auto;
+  -moz-hyphenate-limit-chars: 6 3 3;
+  -moz-hyphenate-limit-lines: 2;
+  -moz-hyphenate-limit-last: always;
+  -moz-hyphenate-limit-zone: 8%;
+  -ms-hyphens: auto;
+  -ms-hyphenate-limit-chars: 6 3 3;
+  -ms-hyphenate-limit-lines: 2;
+  -ms-hyphenate-limit-last: always;
+  -ms-hyphenate-limit-zone: 8%;
+  hyphens: auto;
+  hyphenate-limit-chars: 6 3 3;
+  hyphenate-limit-lines: 2;
+  hyphenate-limit-last: always;
+  hyphenate-limit-zone: 8%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -81,7 +104,7 @@ h1, h2, h3, strong, b {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 1.75rem;
 }
 
 h2 {
@@ -97,17 +120,10 @@ em, i {
   font-style: italic;
 }
 
-article .longform {
+#intro .content p:first-of-type {
   font-weight: $font-weight__normal;
-  font-size: 1rem;
-  @media (min-width: $mobile-width) {
-    font-size: 1.5rem;
-  }
 }
 
-nav h1 {
-  @media (max-width: $mobile-width),
-         (max-height: $mobile-height){
-    font-size: 1rem;
-  }
+button {
+  font-family: inherit;
 }

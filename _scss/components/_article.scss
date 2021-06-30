@@ -1,6 +1,4 @@
-article header .wrapper,
-article .content,
-nav a {
+.wrapper {
   max-width: 51.875rem;
   margin: 0 auto;
   padding: 0 2rem;
@@ -20,13 +18,22 @@ article {
       vertical-align: middle;
       margin: 0.25rem 0;
     }
-    svg {
-      height: 3.75rem;
-      width: auto;
+    $iconSize: 3.75rem;
+    $iconMobileSize: 2rem;
+    .logo {
+      width: $iconSize;
+      @media (max-width: $mobile-width) {
+        width: $iconMobileSize;
+      }
+    }
+    svg { width: auto; }
+    .logo, svg {
+      display: inline-block;
+      height: $iconSize;
       margin: 0.25rem 2.5rem 0.25rem 0;
       vertical-align: middle;
       @media (max-width: $mobile-width) {
-        height: 2rem;
+        height: $iconMobileSize;
         margin-right: 1rem;
       }
     }
@@ -72,15 +79,16 @@ article {
       padding: 0;
     }
   }
-  .longform {
-    @media (min-width: $mobile-width) {
-      padding: 0 6.25rem 0 2rem;
-    }
-  }
 }
 
-#the-basics {
+#intro {
   font-size: 1rem;
+  .subtitle {
+    font-weight: normal;
+    @media (max-width: $mobile-width) {
+      display: none;
+    }
+  }
   header {
     @media (max-width: $mobile-width) {
       margin-bottom: 2.5rem;
@@ -88,21 +96,45 @@ article {
         margin-bottom: 0.5rem;
       }
     }
-    @media (min-width: $mobile-width) {
-      .wrapper {
-        display: flex;
-      }
-      .title, .subtitle {
-        flex: 1 1 50%;
-        margin: 0;
-      }
-      .subtitle .subwrapper {
-        position: relative;
-        top: 50%;
-        -ms-transform: translateY(-50%);
-        -webkit-transform: translateY(-50%);
-        transform: translateY(-50%);
-      }
+    .wrapper {
+      display: flex;
+    }
+    .title, .subhead {
+      margin: 0;
+    }
+    .title {
+      flex: 1 1 70%;
+    }
+    .subhead {
+      flex: 1 1 30%;
+    }
+    .subhead .subwrapper {
+      text-align: right;
+      position: relative;
+      top: 50%;
+      -ms-transform: translateY(-50%);
+      -webkit-transform: translateY(-50%);
+      transform: translateY(-50%);
+    }
+  }
+  .content {
+    &, p:first-of-type {
+      font-size: 1.75rem;
+    }
+    p:first-of-type {
+      margin: 2rem 0;
+    }
+    p {
+      font-size: 1rem;
+
+    }
+  }
+  nav {
+    margin: 3rem 0;
+    padding: 3rem 0;
+    border-top: 0.1rem solid #E5E5E5;
+    li {
+      margin-bottom: 0.5rem;
     }
   }
 }

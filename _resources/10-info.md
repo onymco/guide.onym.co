@@ -35,4 +35,4 @@ preposition meaning "of" or "from" and is traditionally capitalized in
 Belgian names. The surname commonly refers to a house (common or
 noble) or signifies ancestral relation to a particular place.
 
-© 2017 - ∞
+© {{ site.time | date: '%Y' }} - ∞
