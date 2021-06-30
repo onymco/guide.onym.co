@@ -38,6 +38,7 @@
               <li>Contents:</li>
               {% for resource in site.resources offset:1 %}
               <li>
+                {% include {{ resource.slug | slice: 3, resource.slug.size }}.svg %}
                 <a href="#{{ resource.slug | slice: 3, resource.slug.size }}">
                   {{ resource.title }}
                 </a>

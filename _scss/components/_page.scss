@@ -61,3 +61,15 @@ h4, p {
     }
   }
 }
+
+#main-nav {
+  a {
+    text-decoration: none;
+    &:hover { text-decoration: underline; }
+  }
+  svg {
+    width: 0.75rem;
+    height: 0.75rem;
+    margin-right: 0.5rem
+  }
+}
