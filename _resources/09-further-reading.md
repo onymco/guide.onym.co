@@ -9,6 +9,10 @@ image: /assets/imgs/reading-bw.svg
 
   by Linda Rosenkrantz. An updated complete guide to baby-naming divided into four sections:
   style, image, gender, and tradition.
+  
+- [Brand Naming](https://www.amazon.com/gp/product/B09D5R72YH?&linkCode=sl1&tag=hbab07-20&linkId=dfc5b8bf801f6699a9195ee848a9c1a3&language=en_US&ref_=as_li_ss_tl)
+
+  A complete guide to naming from [Rob Meyerson](https://twitter.com/RobMeyerson), the brain behind the equally compelling podcast [How Brands are Built](https://howbrandsarebuilt.com).
 
 - [Don't Call it That](http://dontcall.it/that/)
 
