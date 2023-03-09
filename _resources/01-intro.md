@@ -9,6 +9,5 @@ naming a project, we also take on clients [here](https://onym.co).
 
 If you find the site useful, consider joining our mailing list below
 where we’ll send occasional thoughts and additional resources on
-naming. And if you see something that would be a good addition to the
-site, [drop us a
+naming. And if you see something that would be a good addition, [drop us a
 line](mailto: contact@onym.co).
