@@ -7,7 +7,7 @@ image: /assets/imgs/agencies-bw.svg
 
 - [Name Ninja](https://www.nameninja.com)
   
-  A buyer's broker specializing in deep research on hard to acquire domains and negotiating big ticket sales.
+  A buyer's broker specializing in deep research on hard to acquire domains and negotiating big ticket purchases.
 
 ### Naming Agencies
 
