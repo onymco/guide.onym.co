@@ -3,6 +3,12 @@ title: "Agencies & Services"
 image: /assets/imgs/agencies-bw.svg
 ---
 
+### Domain Brokers
+
+- [Name Ninja](https://www.nameninja.com)
+  
+  A buyer's broker specializing in deep research on hard to acquire domains and negotiating big ticket sales.
+
 ### Naming Agencies
 
 - [A Hundred Monkeys](http://www.ahundredmonkeys.com/)
