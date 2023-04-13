@@ -6,6 +6,13 @@ image: /assets/imgs/brainstorming-bw.svg
 Dictionaries
 ------------
 
+- [Wordnik](http://www.wordnik.com/)
+
+  The world's largest online dictionary (by number of words). Wordnik
+  shows definitions from multiple sources, example sentences, rhymes,
+  and related words. Don't miss the [advanced search](https://www.wordnik.com/search),
+  which allows for regular expression style matching.
+
 - [Datamuse](http://datamuse.com/)
 
   - A collection of free websites, mobile apps, and APIs designed to
@@ -49,13 +56,6 @@ Dictionaries
 
   A helpful tool for describing technology terms by using analogies
   instead of dense terminology.
-
-- [Wordnik](http://www.wordnik.com/)
-
-  The world's largest online dictionary (by number of words). Wordnik
-  shows definitions from multiple sources, example sentences, rhymes,
-  and related words. Don't miss the [advanced search](https://www.wordnik.com/search),
-  which allows for regular expression style matching.
 
 Associations
 ------------
@@ -136,6 +136,10 @@ Associations
 
 Word Generators / Other Tools
 -----------------------------
+
+- [ChatGTP](https://chat.openai.com/)
+
+  Even naming can benefit from a free association session with an AI agent.
 
 - [Ngram Viewer](https://books.google.com/ngrams/)
 
@@ -430,6 +434,10 @@ goddesses.
   - A meta-list of sports terminology, with a few highlights: [Baseball](https://en.wikipedia.org/wiki/Category:Baseball_terminology), [Basketball](https://en.wikipedia.org/wiki/Category:Basketball_terminology), [Football](https://en.wikipedia.org/wiki/Category:American_football_terminology)
 
 ### Popular Culture
+
+- [Fictional Brand Archive](https://fictionalbrandsarchive.com)
+
+  An extensive and well catagorized list of fictional brands brands from films, tv shows, games, et al.
 
 - [Ancient Names](https://www.behindthename.com/names/usage/ancient)
 
