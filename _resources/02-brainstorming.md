@@ -141,6 +141,10 @@ Word Generators / Other Tools
 
   Even naming can benefit from a free association session with an AI agent.
 
+- [Chatnamer](https://chatnamer.com)
+
+  A ChatGTP powered naming bot from [Tanj](https://tanj.co), the agency behind the Wii and Bravia names.
+
 - [Ngram Viewer](https://books.google.com/ngrams/)
 
   Compare the popularity of words across the massive corpus of Google
