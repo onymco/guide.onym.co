@@ -366,7 +366,7 @@ goddesses.
 
    Very detailed glossary of engineering terms and acronyms.
 
-- [Emergency Services](https://www2.gwu.edu/~icdrm/publications/PDF/GLOSSARY%20-%20Emergency%20Management%20ICDRM%2030%20JUNE%2010.pdf)
+- [Emergency Services](http://www.calhospitalprepare.org/sites/main/files/file-attachments/glossary_-_emergency_management_icdrm_30_june_10.pdf)
 
    Terminology for emergency management education and practice.
 
