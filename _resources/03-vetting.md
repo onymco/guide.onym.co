@@ -98,11 +98,6 @@ Domains & Social
   Primarily a domain name search tool, but has a wizard like interface
   for generating name ideas and does an okay job of offering synonyms,
   recombinations, etc.
-
-- [Name Mesh](http://www.namemesh.com/)
-
-  Domain name search, but offers a column based view of different
-  combinations, etc. Also checks social media availability.
   
 - [800 For All](https://www.800forall.com/SearchForNumbers.aspx)
 
