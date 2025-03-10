@@ -142,6 +142,10 @@ Word Generators / Other Tools
   Compare the popularity of words across the massive corpus of Google
   Books.
 
+- [Random Name Generator](https://www.random-name-generator.com/)
+
+  Generate random name, address, phone number, payment details and more based on country.
+
 - [Behind the Name Generator](https://www.behindthename.com/random/)
 
   Generate random given names based on nationality, fantasy, or root.
