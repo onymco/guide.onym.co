@@ -176,6 +176,10 @@ Word Generators / Other Tools
   Power random word generator with toggles for language, quality,
   patterns, length, and domain availability.
 
+- [NamePepper](https://www.namepepper.com/)
+
+  Generates business and domain names by combining words from 100+ categories. Offers five different name styles like brandable and rhyming, ranking system to filter/sort, and ability to save favorites.
+
 - [Tools for creating ideas](http://creatingminds.org/tools/tools_ideation.htm)
 
   Methodologies and prompts for new ways of thinking about what you’re
