@@ -3,7 +3,9 @@ title: "Onym"
 subtitle: "Resources"
 ---
 
-Naming is hard. Names, after all, are perhaps the most
+Naming is hard. 
+
+Names, after all, are perhaps the most
 indelible artifacts of the product creation process. Brands
 are redesigned with regularity and codebases are
 continually rewritten and replaced but a name,
