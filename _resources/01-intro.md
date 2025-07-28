@@ -43,7 +43,7 @@ project, drop us a line and we'd be happy to help.
 
 This guide is an on-going open source attempt to organize the best
 tools and resources for naming things. If you’re looking for help on
-naming a project, we also take on clients [here](https://onym.co).
+naming a project, we also take on clients [here](https://agency.onym.co).
 
 If you find the site useful, consider joining our mailing list below
 where we’ll send occasional thoughts and additional resources on
