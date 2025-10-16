@@ -3,6 +3,11 @@ title: "Guides & Sprints"
 image: /assets/imgs/guides-bw.svg
 ---
 
+- [How to Name Anything in an Afternoon](https://www.untitled.new/naming-guide)
+
+  [Terrain's](https://terrain.com) guide to naming: a systematic, tested approach that balances instinct with discipline. Written by [Willem Van Lancker](http://x.com/vanlancker).
+
+
 - [3-Step Processes for Naming](http://blog.pieratt.com/post/77293289254/a-3-step-process-for-naming-a-projectproduct)
 
   Strong yet simple naming exercise from startup designer and founder [Ben Pieratt](http://pieratt.com/).
