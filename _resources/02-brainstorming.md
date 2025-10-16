@@ -137,6 +137,10 @@ Associations
 Word Generators / Other Tools
 -----------------------------
 
+- [Untitled.new](https://untitled.new/)
+
+  An AI-powered name generator created by [Terrain](https://terrain.com) that guides you through a 10-question process. Offers domain, trademark, and other features for selecting your name.
+  
 - [Ngram Viewer](https://books.google.com/ngrams/)
 
   Compare the popularity of words across the massive corpus of Google
